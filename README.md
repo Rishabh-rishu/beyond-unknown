@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BEYOND UNKNOWN – FULLY AUTOMATED YOUTUBE SHORTS SYSTEM
 
 > **Channel Name:** BEYOND UNKNOWN  
@@ -306,3 +307,6 @@ The test suite validates:
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 All bundled ambient background audio tracks are released under **Creative Commons CC0 1.0 Universal / Public Domain**.
+=======
+# beyond-unknown
+>>>>>>> 8522e2e47997e78aa922be6521a78fd0816a822f
