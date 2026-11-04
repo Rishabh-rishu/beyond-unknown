@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment and secrets
+.env
+*.token.json
+client_secrets.json
+oauth_credentials.json
+
+# Local output artifacts (not committed to git)
+output/videos/*
+output/audio/*
+output/scripts/*
+output/metadata/*
+!output/videos/.gitkeep
+!output/audio/.gitkeep
+!output/scripts/.gitkeep
+!output/metadata/.gitkeep
+
+# Temporary / scratch / cache
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# State and cache (large or local-only)
+state_checkpoints/

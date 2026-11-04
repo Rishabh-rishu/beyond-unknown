@@ -1,0 +1,131 @@
+name: Daily Automated YouTube Shorts (Beyond Unknown)
+
+on:
+  schedule:
+    # Morning run: 08:15 AM IST (02:45 UTC) -> publishes at 09:30 AM IST
+    - cron: '45 2 * * *'
+    # Evening run: 04:15 PM IST (10:45 UTC) -> publishes at 05:30 PM IST
+    - cron: '45 10 * * *'
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: 'Production Slot to execute'
+        required: true
+        default: 'morning'
+        type: choice
+        options:
+          - morning
+          - evening
+          - dry-run
+
+concurrency:
+  group: beyond-unknown-${{ github.workflow }}-${{ github.event.inputs.slot || github.event.schedule || 'run' }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  produce_and_publish_short:
+    name: Generate & Publish Short
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install System Dependencies (FFmpeg & Fonts)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-noto-core fonts-dejavu-core
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Determine Production Slot
+        id: slot_selector
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            SELECTED_SLOT="${{ github.event.inputs.slot }}"
+            if [ "$SELECTED_SLOT" = "dry-run" ]; then
+              echo "slot=morning" >> $GITHUB_OUTPUT
+              echo "dry_run=true" >> $GITHUB_OUTPUT
+            else
+              echo "slot=$SELECTED_SLOT" >> $GITHUB_OUTPUT
+              echo "dry_run=false" >> $GITHUB_OUTPUT
+            fi
+          elif [ "${{ github.event.schedule }}" = "45 2 * * *" ]; then
+            echo "slot=morning" >> $GITHUB_OUTPUT
+            echo "dry_run=false" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "45 10 * * *" ]; then
+            echo "slot=evening" >> $GITHUB_OUTPUT
+            echo "dry_run=false" >> $GITHUB_OUTPUT
+          else
+            echo "slot=morning" >> $GITHUB_OUTPUT
+            echo "dry_run=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Run Pre-Flight Setup Check
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
+          GEMINI_FALLBACK_MODEL: ${{ secrets.GEMINI_FALLBACK_MODEL }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: |
+          python main.py --setup-check
+
+      - name: Execute Video Production & Publishing
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
+          GEMINI_FALLBACK_MODEL: ${{ secrets.GEMINI_FALLBACK_MODEL }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: |
+          SLOT="${{ steps.slot_selector.outputs.slot }}"
+          IS_DRY_RUN="${{ steps.slot_selector.outputs.dry_run }}"
+
+          if [ "$IS_DRY_RUN" = "true" ]; then
+            echo "Executing DRY-RUN production for slot: $SLOT"
+            python main.py --dry-run --slot "$SLOT"
+          else
+            echo "Executing PUBLISH production for slot: $SLOT"
+            python main.py --publish --slot "$SLOT"
+          fi
+
+      - name: Archive Generated Video Artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: beyond-unknown-${{ steps.slot_selector.outputs.slot }}-${{ github.run_id }}
+          path: |
+            output/videos/*.mp4
+            output/videos/*_thumb.jpg
+            output/scripts/*.json
+            pipeline.log
+          retention-days: 14
+
+      - name: Commit & Push Updated Trackers
+        if: steps.slot_selector.outputs.dry_run == 'false'
+        run: |
+          git config --local user.email "bot@beyondunknown.com"
+          git config --local user.name "Beyond Unknown Production Bot"
+          git add data/published_tracker.json data/rejected_topics.json data/research_cache.json data/topics.json
+          git diff --staged --quiet || git commit -m "Auto-update topic publication tracker [skip ci]"
+          git push origin HEAD || echo "No changes to commit or push."

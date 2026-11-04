@@ -1,0 +1,21 @@
+# Core Framework & Validation
+pydantic>=2.7.0,<3.0.0
+python-dotenv>=1.0.0
+
+# AI & LLM Engine
+google-genai>=0.1.0
+
+# Speech / TTS Engine
+edge-tts>=6.1.12
+
+# Visual & Media Processing
+Pillow>=10.2.0
+requests>=2.31.0
+
+# YouTube Data API & OAuth
+google-api-python-client>=2.120.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.2.0
+
+# Testing
+pytest>=8.0.0

@@ -1,0 +1,45 @@
+{
+  "channel_name": "BEYOND UNKNOWN",
+  "tagline": "DISCOVER WHAT THE WORLD HIDES.",
+  "target_audience": "India + Worldwide",
+  "language": "Hinglish",
+  "format": {
+    "aspect_ratio": "9:16",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "target_duration_min": 35,
+    "target_duration_max": 50
+  },
+  "colors": {
+    "midnight_black": "#10151E",
+    "deep_navy": "#182638",
+    "antique_gold": "#D6B56D",
+    "warm_white": "#F5F1E8",
+    "card_bg_alpha": "rgba(24, 38, 56, 0.85)",
+    "border_gold_alpha": "rgba(214, 181, 109, 0.40)"
+  },
+  "typography": {
+    "heading_font": "Cinzel",
+    "secondary_font": "Montserrat",
+    "devanagari_font": "NotoSansDevanagari",
+    "font_paths": {
+      "heading": "assets/fonts/Cinzel.ttf",
+      "secondary": "assets/fonts/Montserrat.ttf",
+      "devanagari": "assets/fonts/NotoSansDevanagari.ttf"
+    }
+  },
+  "safe_zones": {
+    "top_padding": 240,
+    "bottom_padding": 380,
+    "left_padding": 80,
+    "right_padding": 140
+  },
+  "audio": {
+    "voice_speed": 1.15,
+    "music_duck_volume": 0.12,
+    "default_male_voice": "hi-IN-MadhurNeural",
+    "default_female_voice": "hi-IN-SwaraNeural"
+  },
+  "cta_text": "Aise hi duniya ke hidden secrets ke liye Beyond Unknown ko subscribe karo."
+}

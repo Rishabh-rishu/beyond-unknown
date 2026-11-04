@@ -1,0 +1,64 @@
+{
+  "tracks": {
+    "dark_cinematic_suspense": {
+      "filename": "dark_cinematic_suspense.mp3",
+      "genre": "Cinematic Ambient Drone",
+      "bpm": 70,
+      "mood": "tense, mysterious, revelation",
+      "license": "Creative Commons CC0 1.0 Universal / Public Domain",
+      "attribution": "Beyond Unknown Original Ambient Score",
+      "categories": ["Global mysteries", "Unsolved historical mysteries", "Hidden history"]
+    },
+    "ancient_mystery_ambience": {
+      "filename": "ancient_mystery_ambience.mp3",
+      "genre": "Ancient Acoustic Ambience",
+      "bpm": 65,
+      "mood": "sacred, forgotten, historical echoes",
+      "license": "Creative Commons CC0 1.0 Universal / Public Domain",
+      "attribution": "Beyond Unknown Original Ambient Score",
+      "categories": ["Hidden India", "Ancient civilizations", "Archaeological mysteries", "Ancient history and technology"]
+    },
+    "space_atmosphere": {
+      "filename": "space_atmosphere.mp3",
+      "genre": "Cosmic Synthscape",
+      "bpm": 60,
+      "mood": "vast, eerie, celestial",
+      "license": "Creative Commons CC0 1.0 Universal / Public Domain",
+      "attribution": "Beyond Unknown Original Ambient Score",
+      "categories": ["Space discoveries", "Science and space"]
+    },
+    "science_documentary": {
+      "filename": "science_documentary.mp3",
+      "genre": "Modern Minimalist Documentary Pulse",
+      "bpm": 85,
+      "mood": "analytical, progressive, curious",
+      "license": "Creative Commons CC0 1.0 Universal / Public Domain",
+      "attribution": "Beyond Unknown Original Ambient Score",
+      "categories": ["Strange science", "Forgotten inventions", "Science and space"]
+    },
+    "nature_documentary": {
+      "filename": "nature_documentary.mp3",
+      "genre": "Atmospheric Nature Drone",
+      "bpm": 72,
+      "mood": "organic, deep, wondrous",
+      "license": "Creative Commons CC0 1.0 Universal / Public Domain",
+      "attribution": "Beyond Unknown Original Ambient Score",
+      "categories": ["Unbelievable nature", "Rare animal facts", "Strange nature and geography", "Unexplored places"]
+    },
+    "epic_historical_storytelling": {
+      "filename": "epic_historical_storytelling.mp3",
+      "genre": "Subtle Orchestral Pad",
+      "bpm": 75,
+      "mood": "grand, ancient, enigmatic",
+      "license": "Creative Commons CC0 1.0 Universal / Public Domain",
+      "attribution": "Beyond Unknown Original Ambient Score",
+      "categories": ["Hidden India", "Ancient civilizations", "Ancient history and technology"]
+    }
+  },
+  "settings": {
+    "default_track": "dark_cinematic_suspense",
+    "ducking_volume": 0.12,
+    "fade_in_seconds": 1.5,
+    "fade_out_seconds": 2.0
+  }
+}
