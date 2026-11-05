@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "topic_id": "BU-IND-001",
+    "topic": "Kailasa Temple Ellora Single Rock Excavation",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Ancient single-rock carving excavated top-down, removing over 200,000 tonnes of basalt rock with chisel precision.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "Ancient single-rock carving excavated top-down, removing over 200,000 tonnes of basalt rock with chisel precision.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/242/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
+  }
+]
