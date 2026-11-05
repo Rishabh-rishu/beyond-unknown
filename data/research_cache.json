@@ -24,5 +24,57 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-001",
+    "topic": "Voynich Manuscript Cryptographic Analysis",
+    "country": "Global",
+    "category": "Global mysteries",
+    "main_claims": [
+      "15th-century vellum codex written in an undeciphered script with unknown astronomical and herbal illustrations.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "15th-century vellum codex written in an undeciphered script with unknown astronomical and herbal illustrations.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "source_urls": [
+      "https://www.britannica.com/topic/Voynich-manuscript",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "britannica.com"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-GLO-002",
+    "topic": "Antikythera Mechanism Astronomical Computer",
+    "country": "Greece",
+    "category": "Global mysteries",
+    "main_claims": [
+      "2000-year-old bronze geared clockwork calculating lunar phases, eclipses and Olympic calendar cycles.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "2000-year-old bronze geared clockwork calculating lunar phases, eclipses and Olympic calendar cycles.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://www.nature.com/articles/nature05357",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "nature.com",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
