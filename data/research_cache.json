@@ -76,5 +76,31 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-003",
+    "topic": "Nazca Lines Aerial Geoglyphs Peruvian Desert",
+    "country": "Peru",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Massive geometric biomorphs etched into arid desert floor by removing iron oxide-coated pebbles 2000 years ago.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "Massive geometric biomorphs etched into arid desert floor by removing iron oxide-coated pebbles 2000 years ago.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/700/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
