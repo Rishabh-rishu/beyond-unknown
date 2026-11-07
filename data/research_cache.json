@@ -206,5 +206,31 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-004",
+    "topic": "Great Pyramid Khufu Void Cosmic Ray Muon Discovery",
+    "country": "Egypt",
+    "category": "Global mysteries",
+    "main_claims": [
+      "ScanPyramids discovered a 30-meter void above the Grand Gallery using high-energy cosmic muon particles.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "ScanPyramids discovered a 30-meter void above the Grand Gallery using high-energy cosmic muon particles.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://www.nature.com/articles/nature24647",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "nature.com",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
