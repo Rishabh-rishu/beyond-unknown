@@ -102,5 +102,109 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-002",
+    "topic": "Iron Pillar of Delhi Corrosion Resistance",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "1600-year-old metallurgical wonder that resists rust due to a protective misawite iron-hydrogen-phosphate film.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "1600-year-old metallurgical wonder that resists rust due to a protective misawite iron-hydrogen-phosphate film.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "source_urls": [
+      "https://asi.nic.in/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "asi.nic.in",
+      "asi.nic.in"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-IND-003",
+    "topic": "Bhangarh Fort Archaeological Curfew",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "ASI officially prohibits entry between sunset and sunrise at this 16th-century ruined desert citadel.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "ASI officially prohibits entry between sunset and sunrise at this 16th-century ruined desert citadel.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "source_urls": [
+      "https://asi.nic.in/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "asi.nic.in",
+      "asi.nic.in"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-IND-004",
+    "topic": "Lepakshi Hanging Pillar Mystery",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Veerabhadra temple pillar that does not touch the ground, allowing a cloth or paper to pass underneath.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "Veerabhadra temple pillar that does not touch the ground, allowing a cloth or paper to pass underneath.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "source_urls": [
+      "https://asi.nic.in/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "asi.nic.in",
+      "asi.nic.in"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-IND-005",
+    "topic": "Roopkund Skeleton Lake DNA Revelations",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Himalayan glacial lake containing hundreds of ancient skeletons with catastrophic hail trauma and Mediterranean DNA.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "Himalayan glacial lake containing hundreds of ancient skeletons with catastrophic hail trauma and Mediterranean DNA.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://www.nature.com/articles/s41467-019-11357-9",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "nature.com",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
