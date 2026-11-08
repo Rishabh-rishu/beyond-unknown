@@ -232,5 +232,31 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-006",
+    "topic": "Lonar Crater Basalt Impact Glass",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Hyper-velocity meteorite impact crater formed 50,000 years ago in Deccan basalt, containing maskelynite mineral.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "Hyper-velocity meteorite impact crater formed 50,000 years ago in Deccan basalt, containing maskelynite mineral.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://www.usgs.gov/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "usgs.gov",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
