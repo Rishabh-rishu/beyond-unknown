@@ -258,5 +258,31 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-005",
+    "topic": "Easter Island Rapa Nui Moai Walking Transport",
+    "country": "Chile",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Experimental archaeology confirmed megalithic moai statues were moved upright by rocking ropes ('walking').",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "Experimental archaeology confirmed megalithic moai statues were moved upright by rocking ropes ('walking').",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/715/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
