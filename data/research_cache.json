@@ -310,5 +310,31 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-006",
+    "topic": "Bimini Road Submerged Limestone Blocks",
+    "country": "Bahamas",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Undersea rectangular limestone formation discovered in 1968, proven to be natural beachrock cleavage.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "Undersea rectangular limestone formation discovered in 1968, proven to be natural beachrock cleavage.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://www.usgs.gov/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "usgs.gov",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
