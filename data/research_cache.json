@@ -336,5 +336,31 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-008",
+    "topic": "Rani ki Vav Stepwell Hydraulic Engineering",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Subterranean inverted temple stepwell with 7 levels and over 500 principal sculptures built in the 11th century.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "Subterranean inverted temple stepwell with 7 levels and over 500 principal sculptures built in the 11th century.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/1314/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
