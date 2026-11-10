@@ -362,5 +362,31 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-007",
+    "topic": "Stonehenge Bluestone Transport from Preseli Hills",
+    "country": "UK",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Geochemical fingerprinting confirmed 2-tonne dolerite bluestones were quarried 240 kilometers away in Wales.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "Geochemical fingerprinting confirmed 2-tonne dolerite bluestones were quarried 240 kilometers away in Wales.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://www.nature.com/articles/s41598-020-69230-0",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "nature.com",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
