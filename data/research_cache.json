@@ -388,5 +388,31 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-009",
+    "topic": "Ram Setu Adam Bridge Underwater Sandbanks",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Chain of limestone shoals between Pamban and Mannar islands with complex sedimentary geologic history.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "Chain of limestone shoals between Pamban and Mannar islands with complex sedimentary geologic history.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://www.britannica.com/place/Adams-Bridge",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
