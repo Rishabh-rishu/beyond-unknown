@@ -414,5 +414,31 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-008",
+    "topic": "Richat Structure Eye of the Sahara Geological Dome",
+    "country": "Mauritania",
+    "category": "Global mysteries",
+    "main_claims": [
+      "40-kilometer wide concentric circular uplift caused by alkaline igneous rock intrusion eroded over 100 million years.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "40-kilometer wide concentric circular uplift caused by alkaline igneous rock intrusion eroded over 100 million years.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://earthobservatory.nasa.gov/images/92071/the-eye-of-the-sahara",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "earthobservatory.nasa.gov",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
