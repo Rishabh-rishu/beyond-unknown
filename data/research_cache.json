@@ -466,5 +466,31 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-009",
+    "topic": "Plain of Jars Megalithic Burial Vessels",
+    "country": "Laos",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Thousands of hollowed stone jars dating to 500 BCE across Xiangkhoang plateau associated with mortuary cremation.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "Thousands of hollowed stone jars dating to 500 BCE across Xiangkhoang plateau associated with mortuary cremation.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/1587/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
