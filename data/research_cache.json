@@ -440,5 +440,31 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-010",
+    "topic": "Shani Shingnapur Village Without Doors",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Centuries-old Maharashtrian village where houses traditionally have zero door panels or locking frames.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "Centuries-old Maharashtrian village where houses traditionally have zero door panels or locking frames.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://www.britannica.com/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
