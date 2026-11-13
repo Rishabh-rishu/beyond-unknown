@@ -14,5 +14,13 @@
   {
     "topic_id": "BU-IND-004",
     "reason": "Failed factual verification"
+  },
+  {
+    "topic_id": "BU-GLO-010",
+    "reason": "Failed factual verification"
+  },
+  {
+    "topic_id": "BU-GLO-011",
+    "reason": "Failed factual verification"
   }
 ]

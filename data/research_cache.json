@@ -518,5 +518,83 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-010",
+    "topic": "Yonaguni Monument Submerged Japanese Terraces",
+    "country": "Japan",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Submerged sandstone megalith off Ryukyu islands showing natural tectonic bedding and joint fractures.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "Submerged sandstone megalith off Ryukyu islands showing natural tectonic bedding and joint fractures.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "source_urls": [
+      "https://www.britannica.com/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "britannica.com"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-GLO-011",
+    "topic": "Taos Hum Low-Frequency Acoustic Mystery",
+    "country": "USA",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Unexplained persistent 66Hz acoustic drone heard by 2% of the local population in New Mexico.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "Unexplained persistent 66Hz acoustic drone heard by 2% of the local population in New Mexico.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "source_urls": [
+      "https://www.britannica.com/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "britannica.com"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-GLO-012",
+    "topic": "Tunguska Event 1908 Siberian Cosmic Airburst",
+    "country": "Russia",
+    "category": "Global mysteries",
+    "main_claims": [
+      "High-altitude meteor airburst flattened 80 million trees across 2,150 square kilometers without leaving an impact crater.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "High-altitude meteor airburst flattened 80 million trees across 2,150 square kilometers without leaving an impact crater.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://science.nasa.gov/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "science.nasa.gov",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
