@@ -492,5 +492,31 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-011",
+    "topic": "Jatinga Bird Mystery Seasonal Phenomenon",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Assam village where specific migratory birds disorient during late monsoon fog and light sources.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "Assam village where specific migratory birds disorient during late monsoon fog and light sources.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://www.britannica.com/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
