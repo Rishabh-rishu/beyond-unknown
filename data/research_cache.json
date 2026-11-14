@@ -648,5 +648,31 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-013",
+    "topic": "Sailing Stones Racetrack Playa Death Valley Ice Sheets",
+    "country": "USA",
+    "category": "Global mysteries",
+    "main_claims": [
+      "GPS trackers revealed thin ice sheets pushing dolomite boulders across muddy desert floor during windstorms.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "GPS trackers revealed thin ice sheets pushing dolomite boulders across muddy desert floor during windstorms.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://www.usgs.gov/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "usgs.gov",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
