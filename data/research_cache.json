@@ -596,5 +596,57 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-012",
+    "topic": "Kuldhara Abandoned Ghost Village Overnight Exodus",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Desert village abandoned by Paliwal Brahmins in 1825 overnight due to severe feudal taxation.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "Desert village abandoned by Paliwal Brahmins in 1825 overnight due to severe feudal taxation.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "source_urls": [
+      "https://asi.nic.in/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "asi.nic.in",
+      "asi.nic.in"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-IND-013",
+    "topic": "Magnetic Hill Ladakh Optical Gravity Illusion",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Gravity hill near Leh where roadway slope creates an optical illusion that stationary vehicles roll uphill.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "Gravity hill near Leh where roadway slope creates an optical illusion that stationary vehicles roll uphill.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://www.britannica.com/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
