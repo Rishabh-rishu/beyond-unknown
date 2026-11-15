@@ -674,5 +674,57 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-014",
+    "topic": "Barabar Caves Acoustic Resonance Chambers",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Oldest surviving rock-cut caves from Mauryan empire (3rd century BCE) with polished granite echo resonance.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "Oldest surviving rock-cut caves from Mauryan empire (3rd century BCE) with polished granite echo resonance.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "source_urls": [
+      "https://asi.nic.in/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "asi.nic.in",
+      "asi.nic.in"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-IND-015",
+    "topic": "Saraswati River Paleo-Channel Satellite Mapping",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "ISRO and geological surveys mapped buried subsurface drainage channels of the ancient Saraswati river basin.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "ISRO and geological surveys mapped buried subsurface drainage channels of the ancient Saraswati river basin.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://www.isro.gov.in/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "isro.gov.in",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]

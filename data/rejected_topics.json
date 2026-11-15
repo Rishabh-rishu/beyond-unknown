@@ -26,5 +26,9 @@
   {
     "topic_id": "BU-IND-012",
     "reason": "Failed factual verification"
+  },
+  {
+    "topic_id": "BU-IND-014",
+    "reason": "Failed factual verification"
   }
 ]
