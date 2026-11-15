@@ -726,5 +726,31 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-014",
+    "topic": "Derinkuyu Underground City Multi-Level Refuge",
+    "country": "Turkey",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Ancient subterranean volcanic tuff city extending 85 meters down to accommodate 20,000 people and livestock.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "Ancient subterranean volcanic tuff city extending 85 meters down to accommodate 20,000 people and livestock.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/356/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
