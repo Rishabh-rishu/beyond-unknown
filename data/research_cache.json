@@ -778,5 +778,109 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-015",
+    "topic": "Piri Reis Map Antarctic Coastline Controversy",
+    "country": "Turkey",
+    "category": "Global mysteries",
+    "main_claims": [
+      "1513 Ottoman portolan chart depicting South America and Atlantic navigation routes based on early Portuguese logs.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "1513 Ottoman portolan chart depicting South America and Atlantic navigation routes based on early Portuguese logs.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "source_urls": [
+      "https://www.britannica.com/biography/Piri-Reis",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "britannica.com"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-GLO-016",
+    "topic": "Hessdalen Lights Unexplained Atmospheric Plasma",
+    "country": "Norway",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Spontaneous luminous floating orbs in Norwegian valley studied by radar and spectroscopic sensor stations.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "Spontaneous luminous floating orbs in Norwegian valley studied by radar and spectroscopic sensor stations.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "source_urls": [
+      "https://www.britannica.com/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "britannica.com"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-GLO-017",
+    "topic": "Mary Celeste Ghost Ship Intact Cargo Mystery",
+    "country": "Atlantic",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Brigantine found fully seaworthy in 1872 with six months of food and industrial alcohol cargo intact, crew missing.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "Brigantine found fully seaworthy in 1872 with six months of food and industrial alcohol cargo intact, crew missing.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "source_urls": [
+      "https://www.britannica.com/topic/Mary-Celeste",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "britannica.com"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-GLO-018",
+    "topic": "Bermuda Triangle Statistical Reality Check",
+    "country": "Atlantic",
+    "category": "Global mysteries",
+    "main_claims": [
+      "NOAA and Lloyd's of London insurance data confirm ship disappearance rates here are equal to any busy shipping lane.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "NOAA and Lloyd's of London insurance data confirm ship disappearance rates here are equal to any busy shipping lane.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://oceanservice.noaa.gov/facts/bermudatriangle.html",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "oceanservice.noaa.gov",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
