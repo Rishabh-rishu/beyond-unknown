@@ -752,5 +752,31 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-016",
+    "topic": "Living Root Bridges of Meghalaya Bio-Engineering",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Khasi and Jaintia tribes guide Ficus elastica roots across rivers over decades to form living bridges.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "Khasi and Jaintia tribes guide Ficus elastica roots across rivers over decades to form living bridges.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/tentativelists/6606/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
