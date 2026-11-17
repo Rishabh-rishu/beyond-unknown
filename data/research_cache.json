@@ -908,5 +908,109 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-019",
+    "topic": "Lost Colony of Roanoke Croatoan Tree Inscription",
+    "country": "USA",
+    "category": "Global mysteries",
+    "main_claims": [
+      "1590 search found deserted English settlement with 'CROATOAN' carved into wooden post; recent digs find blended pottery.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "1590 search found deserted English settlement with 'CROATOAN' carved into wooden post; recent digs find blended pottery.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "source_urls": [
+      "https://www.britannica.com/story/the-lost-colony-of-roanoke",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "britannica.com"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-GLO-020",
+    "topic": "Oak Island Money Pit Submerged Water Traps",
+    "country": "Canada",
+    "category": "Global mysteries",
+    "main_claims": [
+      "200-year excavation search for subterranean wooden platforms flooded by tidal ocean tunnel booby traps.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "200-year excavation search for subterranean wooden platforms flooded by tidal ocean tunnel booby traps.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "source_urls": [
+      "https://www.britannica.com/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "britannica.com"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-GLO-021",
+    "topic": "Sanxingdui Bronze Masks Ancient Shu Kingdom",
+    "country": "China",
+    "category": "Global mysteries",
+    "main_claims": [
+      "3000-year-old sacrificial pits in Sichuan containing protruding bronze eyes and gold masks rewriting Chinese bronze age history.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "3000-year-old sacrificial pits in Sichuan containing protruding bronze eyes and gold masks rewriting Chinese bronze age history.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "source_urls": [
+      "https://www.britannica.com/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "britannica.com"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-GLO-022",
+    "topic": "Gobekli Tepe T-Pillar Hunter-Gatherer Sanctuaries",
+    "country": "Turkey",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Oldest known megalithic temple complex (9500 BCE) constructed before the invention of agriculture or pottery.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "Oldest known megalithic temple complex (9500 BCE) constructed before the invention of agriculture or pottery.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/1572/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]

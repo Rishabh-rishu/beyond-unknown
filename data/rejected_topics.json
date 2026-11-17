@@ -42,5 +42,17 @@
   {
     "topic_id": "BU-GLO-017",
     "reason": "Failed factual verification"
+  },
+  {
+    "topic_id": "BU-GLO-019",
+    "reason": "Failed factual verification"
+  },
+  {
+    "topic_id": "BU-GLO-020",
+    "reason": "Failed factual verification"
+  },
+  {
+    "topic_id": "BU-GLO-021",
+    "reason": "Failed factual verification"
   }
 ]
