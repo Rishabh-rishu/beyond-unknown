@@ -882,5 +882,31 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-017",
+    "topic": "Bhimbetka Cave Rock Art Oldest Pigments",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Mesolithic and Upper Paleolithic rock shelters depicting hunting scenes painted with red hematite and plant sap.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "Mesolithic and Upper Paleolithic rock shelters depicting hunting scenes painted with red hematite and plant sap.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/925/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
