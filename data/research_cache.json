@@ -1038,5 +1038,31 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-023",
+    "topic": "Terracotta Army Mercury Rivers and Crossbows",
+    "country": "China",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Mausoleum of Qin Shi Huang surrounded by 8,000 clay warriors; soil tests show high mercury levels matching Sima Qian texts.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "Mausoleum of Qin Shi Huang surrounded by 8,000 clay warriors; soil tests show high mercury levels matching Sima Qian texts.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/441/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
