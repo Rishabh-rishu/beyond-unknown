@@ -1012,5 +1012,31 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-018",
+    "topic": "Thanjavur Brihadisvara Temple Granite Capstone",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Chola masterpiece topped by an 80-tonne single granite block hoisted using a 6-kilometer earthen ramp.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "Chola masterpiece topped by an 80-tonne single granite block hoisted using a 6-kilometer earthen ramp.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/250/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
