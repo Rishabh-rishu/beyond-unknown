@@ -1064,5 +1064,57 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-019",
+    "topic": "Chand Baori Abhaneri Geometry and Depth",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "3,500 narrow steps over 13 stories plunging 30 meters underground with symmetrical mathematical perfection.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "3,500 narrow steps over 13 stories plunging 30 meters underground with symmetrical mathematical perfection.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "source_urls": [
+      "https://asi.nic.in/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "asi.nic.in",
+      "asi.nic.in"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-IND-020",
+    "topic": "Sree Padmanabhaswamy Temple Underground Vault B",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Royal temple vaults containing gold treasures estimated in billions; Vault B remains sealed behind serpent reliefs.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "Royal temple vaults containing gold treasures estimated in billions; Vault B remains sealed behind serpent reliefs.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://www.britannica.com/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
