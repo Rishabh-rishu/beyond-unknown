@@ -1194,5 +1194,31 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-025",
+    "topic": "Nan Madol Floating Coral Megacity of Pohnpei",
+    "country": "Micronesia",
+    "category": "Global mysteries",
+    "main_claims": [
+      "92 artificial islets built over coral reefs using prismatic basalt log architecture in the Pacific Ocean.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "92 artificial islets built over coral reefs using prismatic basalt log architecture in the Pacific Ocean.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/1503/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
