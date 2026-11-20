@@ -1142,5 +1142,57 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-021",
+    "topic": "Unakoti Hill Rock Carvings Shaivite Mystery",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Tripura forest containing hundreds of gigantic bas-relief rock carvings of Shiva dating to 7th-9th century.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "Tripura forest containing hundreds of gigantic bas-relief rock carvings of Shiva dating to 7th-9th century.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "source_urls": [
+      "https://asi.nic.in/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "asi.nic.in",
+      "asi.nic.in"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-IND-022",
+    "topic": "Kodinhi Village of Twins Genetic Curiosity",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Kerala village boasting over 400 pairs of twins with a twinning rate six times higher than the global average.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "Kerala village boasting over 400 pairs of twins with a twinning rate six times higher than the global average.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://www.britannica.com/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
