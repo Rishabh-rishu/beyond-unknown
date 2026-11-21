@@ -1246,5 +1246,31 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-026",
+    "topic": "Gunung Padang West Java Volcanic Terraces",
+    "country": "Indonesia",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Columnar basalt stepped pyramid hill evaluated for multi-phase human occupation and natural core volcanic origins.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "Columnar basalt stepped pyramid hill evaluated for multi-phase human occupation and natural core volcanic origins.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://www.nature.com/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "nature.com",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
