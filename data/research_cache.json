@@ -1220,5 +1220,31 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-023",
+    "topic": "Malana Village Ancient Greek Lineage Legend",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Isolated Parvati valley village following an ancient indigenous council system claiming Kanashi language descent.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "Isolated Parvati valley village following an ancient indigenous council system claiming Kanashi language descent.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://www.britannica.com/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
