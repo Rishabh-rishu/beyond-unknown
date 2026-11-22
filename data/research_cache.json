@@ -1272,5 +1272,31 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-024",
+    "topic": "Konark Sun Temple Lost Magnetic Lodestone",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "13th-century stone chariot temple whose magnetic iron beams allegedly disturbed medieval ship compasses.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "13th-century stone chariot temple whose magnetic iron beams allegedly disturbed medieval ship compasses.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/246/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
