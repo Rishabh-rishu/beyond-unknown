@@ -1324,5 +1324,135 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-025",
+    "topic": "Adichanallur Iron Age Archaeological Excavations",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Tamil Nadu prehistoric urn-burial site yielding bronze artifacts, iron weapons and Tamil-Brahmi inscriptions.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "Tamil Nadu prehistoric urn-burial site yielding bronze artifacts, iron weapons and Tamil-Brahmi inscriptions.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "source_urls": [
+      "https://asi.nic.in/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "asi.nic.in",
+      "asi.nic.in"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-IND-026",
+    "topic": "Keezhadi Sangam Era Urban Civilization",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Vaigai river valley excavations proving advanced urban pottery, brick structures and literacy dating to 6th century BCE.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "Vaigai river valley excavations proving advanced urban pottery, brick structures and literacy dating to 6th century BCE.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "source_urls": [
+      "https://asi.nic.in/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "asi.nic.in",
+      "asi.nic.in"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-IND-027",
+    "topic": "Rakhigarhi Harappan DNA and Craniofacial Findings",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Largest Indus Valley civilization site providing ancient genomic evidence of indigenous continuity.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "Largest Indus Valley civilization site providing ancient genomic evidence of indigenous continuity.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "source_urls": [
+      "https://asi.nic.in/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "asi.nic.in",
+      "asi.nic.in"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-IND-028",
+    "topic": "Gwalior Fort Oldest Inscribed Zero Symbol",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Chaturbhuj Temple stone inscription contains one of the earliest authenticated written zeros in mathematical history.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "Chaturbhuj Temple stone inscription contains one of the earliest authenticated written zeros in mathematical history.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "source_urls": [
+      "https://asi.nic.in/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "asi.nic.in",
+      "asi.nic.in"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-IND-029",
+    "topic": "Sanchi Great Stupa Ashoka Lions and Relics",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Oldest stone Buddhist monument commissioning Ashoka lion pillars and surviving Sariputra relics.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "Oldest stone Buddhist monument commissioning Ashoka lion pillars and surviving Sariputra relics.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/524/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
