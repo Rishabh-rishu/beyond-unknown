@@ -1454,5 +1454,57 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-028",
+    "topic": "Mapimi Silent Zone Radio Wave Absorption Myth",
+    "country": "Mexico",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Desert biosphere reserve where localized iron deposits and meteorites sparked legends of radio silence.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "Desert biosphere reserve where localized iron deposits and meteorites sparked legends of radio silence.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "source_urls": [
+      "https://www.britannica.com/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "britannica.com"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-GLO-029",
+    "topic": "Hypogeum of Hal Saflieni Malta Acoustic Resonance",
+    "country": "Malta",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Subterranean prehistoric sanctuary carved into globigerina limestone resonating at 110Hz male vocal frequencies.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "Subterranean prehistoric sanctuary carved into globigerina limestone resonating at 110Hz male vocal frequencies.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/130/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
