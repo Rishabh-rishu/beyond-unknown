@@ -1532,5 +1532,31 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-030",
+    "topic": "Costa Rica Diquis Stone Spheres Precision Geometry",
+    "country": "Costa Rica",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Pre-Columbian gabbro and granodiorite balls up to 2 meters wide carved by chipping and pecking between 500-1500 CE.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "Pre-Columbian gabbro and granodiorite balls up to 2 meters wide carved by chipping and pecking between 500-1500 CE.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/1453/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
