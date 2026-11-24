@@ -1506,5 +1506,31 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-030",
+    "topic": "Hampi Musical Pillars Acoustic Frequencies",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Vijayanagara empire Vittala temple with monolithic pillars that resonate specific musical notes when tapped.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "Vijayanagara empire Vittala temple with monolithic pillars that resonate specific musical notes when tapped.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/356/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
