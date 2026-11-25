@@ -1584,5 +1584,31 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-031",
+    "topic": "Newgrange Winter Solstice Sunlight Chamber",
+    "country": "Ireland",
+    "category": "Global mysteries",
+    "main_claims": [
+      "5200-year-old Stone Age passage tomb older than Stonehenge aligned so roofbox illuminates inner chamber at dawn.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "5200-year-old Stone Age passage tomb older than Stonehenge aligned so roofbox illuminates inner chamber at dawn.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/659/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
