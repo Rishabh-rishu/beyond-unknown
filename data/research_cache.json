@@ -1558,5 +1558,31 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-031",
+    "topic": "Kumbhalgarh Fort Great Wall of India",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "36-kilometer continuous defensive stone wall perimeter, second only to the Great Wall of China in length.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "36-kilometer continuous defensive stone wall perimeter, second only to the Great Wall of China in length.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/247/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
