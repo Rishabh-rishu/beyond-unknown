@@ -1636,5 +1636,31 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-032",
+    "topic": "Karnak Temple Hypostyle Hall 134 Sandstone Columns",
+    "country": "Egypt",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Massive forest of papyrus columns built by Seti I and Ramesses II supporting 70-tonne stone architraves.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "Massive forest of papyrus columns built by Seti I and Ramesses II supporting 70-tonne stone architraves.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/87/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
