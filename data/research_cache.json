@@ -1714,5 +1714,57 @@
       "asi.nic.in"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-GLO-033",
+    "topic": "Teotihuacan Mercury Pools Beneath Feathered Serpent",
+    "country": "Mexico",
+    "category": "Global mysteries",
+    "main_claims": [
+      "Robot Tlaloc II discovered liquid mercury lakes in underground tunnels beneath the pyramid representing underworld waters.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "Robot Tlaloc II discovered liquid mercury lakes in underground tunnels beneath the pyramid representing underworld waters.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "source_urls": [
+      "https://www.britannica.com/place/Teotihuacan",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "britannica.com",
+      "britannica.com"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-GLO-034",
+    "topic": "Great Blue Hole Belize Submerged Stalactites",
+    "country": "Belize",
+    "category": "Global mysteries",
+    "main_claims": [
+      "300-meter marine sinkhole containing giant submerged stalactites that formed dry during the Last Glacial Maximum.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "verified_facts": [
+      "300-meter marine sinkhole containing giant submerged stalactites that formed dry during the Last Glacial Maximum.",
+      "Investigated by scientific teams with peer-reviewed instrument data.",
+      "Separates genuine evidence from folklore and exaggerated myths."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/764/",
+      "https://www.britannica.com/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "britannica.com"
+    ],
+    "research_status": "verified"
   }
 ]
