@@ -1662,5 +1662,57 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-033",
+    "topic": "Golconda Fort Acoustic Whispering Clapping Arch",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Acoustic engineering where a handclap at the entrance dome can be clearly heard 1 kilometer away at the citadel top.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [],
+    "uncertain_claims": [
+      "Acoustic engineering where a handclap at the entrance dome can be clearly heard 1 kilometer away at the citadel top.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "source_urls": [
+      "https://asi.nic.in/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "asi.nic.in",
+      "asi.nic.in"
+    ],
+    "research_status": "rejected"
+  },
+  {
+    "topic_id": "BU-IND-034",
+    "topic": "St Marys Island Columnar Basalt Formations",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "Hexagonal volcanic columnar basalt pillars off Malpe coast formed by Madagascar rifting millions of years ago.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "Hexagonal volcanic columnar basalt pillars off Malpe coast formed by Madagascar rifting millions of years ago.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://www.gsi.gov.in/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "gsi.gov.in",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
