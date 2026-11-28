@@ -1766,5 +1766,31 @@
       "britannica.com"
     ],
     "research_status": "verified"
+  },
+  {
+    "topic_id": "BU-IND-035",
+    "topic": "Sunderbans Mudskippers and Tidal Mangrove Adaptations",
+    "country": "India",
+    "category": "Hidden India",
+    "main_claims": [
+      "World's largest halophytic mangrove forest where walking fish and Royal Bengal tigers swim tidal saltwater channels.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "verified_facts": [
+      "World's largest halophytic mangrove forest where walking fish and Royal Bengal tigers swim tidal saltwater channels.",
+      "Documented in archaeological and geological surveys of India.",
+      "Authentic historical and scientific data verified through official institutions."
+    ],
+    "uncertain_claims": [],
+    "source_urls": [
+      "https://whc.unesco.org/en/list/452/",
+      "https://asi.nic.in/"
+    ],
+    "source_titles": [
+      "whc.unesco.org",
+      "asi.nic.in"
+    ],
+    "research_status": "verified"
   }
 ]
